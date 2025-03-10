@@ -137,3 +137,9 @@ body {
   padding-left: env(safe-area-inset-left);
   padding-right: env(safe-area-inset-right);
 }
+/* Table Data */
+.table-lg tr td {
+  padding-left: 17px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
